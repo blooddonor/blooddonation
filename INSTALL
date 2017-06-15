@@ -1,0 +1,9 @@
+Building Blooddonation
+
+See doc/readme-qt.rst for instructions on building Blooddonation-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Blooddonation.
+
+See doc/build-*.txt for instructions on building blooddonationd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Blooddonation.
